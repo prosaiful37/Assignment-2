@@ -1,0 +1,6 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lobster&family=Poppins:wght@400;500&display=swap');
+/* common css style */
+body{
+    font-family: 'Poppins', sans-serif;
+}
